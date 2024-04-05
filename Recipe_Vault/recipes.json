@@ -1,0 +1,636 @@
+{
+    "savory": {
+        "chicken": {
+            "course": {
+                "appetizer": {
+                    "recipes": {
+                        "Crispy Chicken Wings": {
+                            "prep time": 30,
+                            "ingredients": [
+                                "flour",
+                                "paprika",
+                                "garlic salt",
+                                "black pepper",
+                                "cayenne",
+                                "butter"
+                            ],
+                            "amount": [
+                                "1/3 cup",
+                                "1 tbs",
+                                "1 tsp",
+                                "1 tsp",
+                                "1/4 tsp",
+                                "3 tbs"
+                            ],
+                            "page": 3
+                        },
+                        "Buffalo Chicken Dip": {
+                            "prep time": 35,
+                            "ingredients": [
+                                "chicken breast",
+                                "sharp cheddar cheese",
+                                "cream cheese",
+                                "Frank's Red Hot",
+                                "ranch dressing"
+                            ],
+                            "amount": [
+                                "3 cooked",
+                                "2 cups",
+                                "8 ounces",
+                                "3/4 bottle",
+                                "1/2 bottle"
+                            ],
+                            "page": 6
+                        }
+                    }
+                },
+                "entree": {
+                    "recipes": {
+                        "Chicken Adobo": {
+                            "prep time": 45,
+                            "ingredients": [
+                                "chicken thighs",
+                                "garlic cloves",
+                                "bay leaves",
+                                "apple cider vinegar",
+                                "water",
+                                "soy sauce",
+                                "oil"
+                            ],
+                            "amount": [
+                                "2 lbs",
+                                "6",
+                                "5",
+                                "1.25 cup",
+                                "1.5 cups",
+                                "to taste",
+                                "cover bottom of pan"
+                            ],
+                            "page": 1
+                        },
+                        "Chicken Fried Rice": {
+                            "prep time": 40,
+                            "ingredients": [
+                                "chicken breast",
+                                "soy sauce",
+                                "cornstarch",
+                                "sesame oil",
+                                "oil",
+                                "hot water",
+                                "sugar",
+                                "soy sauce",
+                                "dark soy sauce",
+                                "black pepper",
+                                "oil",
+                                "eggs",
+                                "onion diced",
+                                "scallions",
+                                "cooked rice"
+                            ],
+                            "amount": [
+                                "1 large",
+                                "1 tsp",
+                                "1 tsp",
+                                "1/2 tsp",
+                                "1 tsp",
+                                "1 tbs",
+                                "1/4 tsp",
+                                "1 tbs",
+                                "1 tsp",
+                                "1/4 tsp",
+                                "3 tbs",
+                                "2 - beaten",
+                                "1 medium",
+                                "4",
+                                "5 cups"
+                            ],
+                            "page": 4
+                        },
+                        "Jamaican Jerk Chicken": {
+                            "prep time": 30,
+                            "ingredients": [
+                                "scallions",
+                                "garlic",
+                                "jalapenos",
+                                "limes",
+                                "allspice",
+                                "oil",
+                                "salt",
+                                "black pepper",
+                                "chicken thighs"
+                            ],
+                            "amount": [
+                                "4",
+                                "2 cloves",
+                                "2",
+                                "2",
+                                "1 tsp",
+                                "3 tbs",
+                                "1 tsp",
+                                "1/4 tsp",
+                                "8"
+                            ],
+                            "page": 5
+                        },
+                        "Chicken Fajitas": {
+                            "prep time": 30,
+                            "ingredients": [
+                                "orange juice",
+                                "lime",
+                                "chili powder",
+                                "cumin",
+                                "salt",
+                                "black pepper",
+                                "olive oil",
+                                "red pepper flakes",
+                                "chicken breast"
+                            ],
+                            "amount": [
+                                "2 tbs",
+                                "1/2, juiced",
+                                "1/2 tsp",
+                                "1/2 tsp",
+                                "1/2 tsp",
+                                "1/2 tsp",
+                                "1 tsp",
+                                "1/2 tsp",
+                                "2"
+                            ],
+                            "page": 7
+                        },
+                        "Chicken Noodle Soup": {
+                            "prep time": 15,
+                            "ingredients": [
+                                "butter",
+                                "onion chopped",
+                                "celery chopped",
+                                "chicken broth",
+                                "vegetable broth",
+                                "cooked chicken breast chopped",
+                                "egg noodles",
+                                "carrots",
+                                "dried basil",
+                                "dried oregano",
+                                "salt and pepper"
+                            ],
+                            "amount": [
+                                "1 tbl",
+                                "1/2 cup",
+                                "1/2 cup",
+                                "4 cans",
+                                "1 can",
+                                "1/2 pound",
+                                "1.5 cups",
+                                "1 cup",
+                                "1/2 tsp",
+                                "1/2 tsp",
+                                "to taste"
+                            ],
+                            "page": 7
+                        }
+                    }
+                }
+            }
+        },
+        "beef": {
+            "course": {
+                "appetizer": {
+                    "recipes": {
+                        "Cocktail Meatballs": {
+                            "prep time": 40,
+                            "ingredients": [
+                                "ground beef",
+                                "ground pork",
+                                "breadcrumbs",
+                                "grated onion",
+                                "fresh parsley",
+                                "eggs",
+                                "kosher salt",
+                                "black pepper",
+                                "chili sauce",
+                                "apricot preserves",
+                                "soy sauce",
+                                "sriracha"
+                            ],
+                            "amount": [
+                                "1 lb",
+                                "1 lb",
+                                "1 cup",
+                                "1/2 cup",
+                                "1/2 cup",
+                                "2 large",
+                                "1 tsp.",
+                                "1/4 tsp",
+                                "12 oz bottle",
+                                "1/2 cup",
+                                "1 tbsp",
+                                "1 tbsp"
+                            ],
+                            "page": 6
+                        }
+                    }
+                },
+                "entree": {
+                    "recipes": {
+                        "Best Hamburger Recipe": {
+                            "prep time": 15,
+                            "ingredients": [
+                                "ground chuck",
+                                " crushed saltine crackers or Panko",
+                                " large egg",
+                                " Worcestershire sauce",
+                                " milk",
+                                " salt",
+                                " garlic powder",
+                                " onion powder",
+                                " black pepper"
+                            ],
+                            "amount": [
+                                "2 lbs",
+                                " 1/2 cup",
+                                " 1",
+                                "2 tbl",
+                                "2 tbl",
+                                " 1 tsp",
+                                " 1 tsp",
+                                " 1 tsp",
+                                " 1/2 tsp"
+                            ],
+                            "page": 9
+                        },
+                        "Homemade Spaghetti Sauce": {
+                            "prep time": 15,
+                            "ingredients": [
+                                "ground beef",
+                                "salt and pepper",
+                                "onion chopped",
+                                "tomato sauce",
+                                "tomato paste",
+                                "italian seasoning",
+                                "dried parsley flakes",
+                                "garlic powder",
+                                "red pepper flakes",
+                                " Worcestershire sauce",
+                                "sugar",
+                                "water",
+                                "fresh basil leaves",
+                                "spaghetti noodles"
+                            ],
+                            "amount": [
+                                "1 lb",
+                                "to taste",
+                                "1 medium",
+                                "15 oz",
+                                "6 oz",
+                                "1/2 tsp",
+                                "1 tbl",
+                                "1 tsp",
+                                "to taste",
+                                "1 tbl",
+                                "1 tbl",
+                                "1 cup",
+                                "1/4 cup",
+                                "1 box"
+                            ],
+                            "page": 8
+                        },
+                        "Beef and Cheese Tostadas": {
+                            "prep time": 15,
+                            "ingredients": [
+                                "Roma tomato",
+                                "cilantro",
+                                "yellow onion",
+                                "lime",
+                                "long green pepper",
+                                "sour cream",
+                                "hot sauce",
+                                "ground beef",
+                                "Southwest spice blend",
+                                "chili powder",
+                                "beef stock concentrate",
+                                "flour tortillas",
+                                "Mexican cheese blend"
+                            ],
+                            "amount": [
+                                "1",
+                                "1/4 oz",
+                                "1",
+                                "1",
+                                "1",
+                                "4 tbl",
+                                "1 tsp",
+                                "10 oz",
+                                "1 tbl",
+                                "1 tsp",
+                                "1/oz",
+                                "6",
+                                "1/2 cup"
+                            ],
+                            "page": 10
+                        },
+                        "Beef Flautas Supreme": {
+                            "prep time": 50,
+                            "ingredients": [
+                                "yellow onion",
+                                "ground beef",
+                                "Southwest spice blend",
+                                "Tex-Mex paste",
+                                "flour tortillas",
+                                "Mexican cheese blend",
+                                "Roma tomato",
+                                "lime",
+                                "sour cream"
+                            ],
+                            "amount": [
+                                "1",
+                                "10 oz",
+                                "1 tbl",
+                                "1",
+                                "6",
+                                "1/2 cup",
+                                "1",
+                                "1",
+                                "4 tbl"
+                            ],
+                            "page": 11
+                        },
+                        "Beef Stew": {
+                            "prep time": 30,
+                            "ingredients": [
+                                "boneless beef chuck roast",
+                                "oil",
+                                "onions quartered",
+                                "water",
+                                "beef broth",
+                                "sugar",
+                                "ginger",
+                                "soy sauce",
+                                "frozen vegetables",
+                                "cornstarch",
+                                "cold water",
+                                "potatoes"
+                            ],
+                            "amount": [
+                                "1/2 lbs",
+                                "1 tbl",
+                                "4 small",
+                                "1.5 cups",
+                                "2/3 cups",
+                                "1 tbl",
+                                "1.5 tsp",
+                                "3 tbl",
+                                "1 package",
+                                "2 tbl",
+                                "2 tbl",
+                                "3"
+                            ],
+                            "page": 12
+                        }
+                    }
+                }
+            }
+        },
+        "meatless": {
+            "course": {
+                "snack": {
+                    "recipes": {
+                        "Grammy's Caramel Corn": {
+                            "prep time": 40,
+                            "ingredients": [
+                                "margarine",
+                                "brown sugar",
+                                "light corn syrup",
+                                "salt",
+                                "baking soda",
+                                "vanilla",
+                                "popped popcorn"
+                            ],
+                            "amount": [
+                                "1 cup",
+                                "2 cups",
+                                "1/2 cup",
+                                "1/2 tsp",
+                                "1/2 tsp",
+                                "1 tsp",
+                                "32 cups"
+                            ],
+                            "page": 3
+                        },
+                        "Chex Mix": {
+                            "prep time": 20,
+                            "ingredients": [
+                                "butter",
+                                "Worcestershire sauce",
+                                "seasoned salt",
+                                "garlic powder",
+                                "onion powder",
+                                "corn chex",
+                                "rice chex",
+                                "wheat chex",
+                                "add-ins (pretels, bagel chips)"
+                            ],
+                            "amount": [
+                                "6 tbl",
+                                "2 tbl",
+                                "1.5 tsp",
+                                "3/4 tsp",
+                                "1/2 tsp",
+                                "3 cups",
+                                "3 cups",
+                                "3 cups",
+                                "3 cups"
+                            ],
+                            "page": 14
+                        },
+                        "Pizelles": {
+                            "prep time": 15,
+                            "ingredients": [
+                                "eggs",
+                                " sugar",
+                                " butter",
+                                " vanilla",
+                                " flour",
+                                " baking powder"
+                            ],
+                            "amount": [
+                                "3",
+                                " 3/4 cup",
+                                " 1/3 cup",
+                                " 1 tbl",
+                                " 1.75 cup",
+                                " 2 tsp"
+                            ],
+                            "page": 19
+                        },
+                        "Oatmeal Raisin Cookies": {
+                            "prep time": 25,
+                            "ingredients": [
+                                "butter",
+                                " brown sugar (packed)",
+                                " sugar",
+                                " eggs",
+                                " vanilla",
+                                " flour",
+                                " baking soda",
+                                " cinnamon",
+                                " salt",
+                                " oats",
+                                " raisins"
+                            ],
+                            "amount": [
+                                "1/2 cup and 6 tbl",
+                                " 3/4 cup",
+                                " 1/2 cup",
+                                " 2",
+                                " 1 tsp",
+                                " 1.5 cups",
+                                " 1 tsp",
+                                " 1 tsp",
+                                " 1/2 tsp",
+                                " 3 cups",
+                                " 1 cup"
+                            ],
+                            "page": 20
+                        }
+                    }
+                },
+                "entree": {
+                    "recipes": {
+                        "One-Pan Trattoria Tortelloni Bake": {
+                            "prep time": 50,
+                            "ingredients": [
+                                "cloves",
+                                "Roma tomato",
+                                "Panko",
+                                "Parmesan cheese",
+                                "italian seasoning",
+                                "Chili flakes",
+                                "mushroom stock",
+                                "cream cheese",
+                                "tomato paste",
+                                "cheese tortelloni"
+                            ],
+                            "amount": [
+                                "2",
+                                "2",
+                                "1/4 cup",
+                                "1/4 cup",
+                                "1 tbl",
+                                "1 tsp",
+                                "1",
+                                "4 tbl",
+                                "1.5 oz",
+                                "9"
+                            ],
+                            "page": 13
+                        },
+                        "Three-Bean Chili": {
+                            "prep time": 30,
+                            "ingredients": [
+                                "ground beed",
+                                "onion chopped",
+                                "green pepper chopped",
+                                "diced tomatoes canned",
+                                "tomato sauce",
+                                "tomato soup",
+                                "taco seasoning",
+                                "kidney beans",
+                                "northern beans",
+                                "butter beans"
+                            ],
+                            "amount": [
+                                "1/2 lb",
+                                "1 cup",
+                                "1/2",
+                                "28 oz",
+                                "15 oz",
+                                "10 oz",
+                                "1 package",
+                                "15 oz",
+                                "15 oz",
+                                "15 oz"
+                            ],
+                            "page": 15
+                        },
+                        "Bacon & Cream Supreme Spaghetti": {
+                            "prep time": 50,
+                            "ingredients": [
+                                "broccoli florets",
+                                "bacon",
+                                "spaghetti",
+                                "cream cheese",
+                                "garlic herb butter",
+                                "parmesan cheese"
+                            ],
+                            "amount": [
+                                "8 oz",
+                                "4 oz",
+                                "6 oz",
+                                "4 tbl",
+                                "2 tbl",
+                                "1/4 cup"
+                            ],
+                            "page": 16
+                        }
+                    }
+                },
+                "dessert": {
+                    "recipes": {
+                        "Perfect Apple Pie": {
+                            "prep time": 30,
+                            "ingredients": [
+                                "Pillsbury Pie Crusts (2 count)",
+                                " peeled apples thinly sliced",
+                                " sugar",
+                                " flour",
+                                " cinnamon (ground)",
+                                " salt",
+                                " nutmeg (ground)",
+                                " lemon juice"
+                            ],
+                            "amount": [
+                                "1 box",
+                                " 6 cups",
+                                " 3/4 cup",
+                                " 2 tbl",
+                                " 3/4 tsp",
+                                " 1/4 tsp",
+                                " 1/8 tsp",
+                                " 1 tbl"
+                            ],
+                            "page": 17
+                        },
+                        "Sour Cream Coffee Cake": {
+                            "prep time": 35,
+                            "ingredients": [
+                                "sugar",
+                                " butter",
+                                " eggs",
+                                " flour",
+                                " baking powder",
+                                " baking soda",
+                                " salt",
+                                " sour cream",
+                                " pure vanilla extract",
+                                " cinnamon sugar"
+                            ],
+                            "amount": [
+                                "2.5 cups",
+                                " 1/2 lb (2 sticks)",
+                                " 4",
+                                " 3.25 cups",
+                                " 3 tsp",
+                                " 2 tsp",
+                                " 2 tsp",
+                                " 1 lb",
+                                " 2 tsp",
+                                " 1.25 cups"
+                            ],
+                            "page": 18
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
